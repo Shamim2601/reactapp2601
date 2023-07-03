@@ -18,6 +18,10 @@ function App() {
           Learn React
         </a>
         <h3>Shamim Al-Mamun</h3>
+        <ol>
+        	<li>Info</li>
+        	<li>Edu</li>
+        </ol>
       </header>
     </div>
   );
